@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 226.12 163.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_13);
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_10);
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_11);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_11" data-name="Gradiente sem nome 11" x1="32.08" y1="11.94" x2="190.47" y2="147.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#063"/>
+      <stop offset="1" stop-color="#00323d"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_10" data-name="Gradiente sem nome 10" x1="49.43" y1="26.97" x2="173.88" y2="133.63" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00323d"/>
+      <stop offset="1" stop-color="#063"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_13" data-name="Gradiente sem nome 13" x1="31.56" y1="81.5" x2="194.56" y2="81.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#063"/>
+      <stop offset="1" stop-color="#00323d"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-4" y="36.02" width="226.12" height="90.67" rx="28.22" ry="28.22"/>
+  <g>
+    <circle class="cls-3" cx="113.06" cy="81.5" r="81.5"/>
+    <path class="cls-2" d="m113.06,6c41.63,0,75.5,33.87,75.5,75.5s-33.87,75.5-75.5,75.5S37.56,123.14,37.56,81.5,71.43,6,113.06,6m0-6C68.05,0,31.56,36.49,31.56,81.5s36.49,81.5,81.5,81.5,81.5-36.49,81.5-81.5S158.07,0,113.06,0h0Z"/>
+  </g>
+  <g>
+    <path class="cls-1" d="m134.39,122.19h-42.67c-7.1,0-12.87-5.77-12.87-12.87v-55.62c0-7.1,5.77-12.87,12.87-12.87h33.07l22.46,22.46v46.03c0,7.1-5.77,12.87-12.87,12.87Zm-42.67-76.36c-4.34,0-7.87,3.53-7.87,7.87v55.62c0,4.34,3.53,7.87,7.87,7.87h42.67c4.34,0,7.87-3.53,7.87-7.87v-43.96l-19.54-19.54h-31Z"/>
+    <polygon class="cls-1" points="144.76 66.82 121.26 66.82 121.26 43.32 126.26 43.32 126.26 61.82 144.76 61.82 144.76 66.82"/>
+    <path class="cls-1" d="m132.03,80.79h-37.4c-1.38,0-2.5-1.12-2.5-2.5s1.12-2.5,2.5-2.5h37.4c1.38,0,2.5,1.12,2.5,2.5s-1.12,2.5-2.5,2.5Z"/>
+    <path class="cls-1" d="m132.03,92.34h-37.4c-1.38,0-2.5-1.12-2.5-2.5s1.12-2.5,2.5-2.5h37.4c1.38,0,2.5,1.12,2.5,2.5s-1.12,2.5-2.5,2.5Z"/>
+    <path class="cls-1" d="m132.03,104.56h-37.4c-1.38,0-2.5-1.12-2.5-2.5s1.12-2.5,2.5-2.5h37.4c1.38,0,2.5,1.12,2.5,2.5s-1.12,2.5-2.5,2.5Z"/>
+  </g>
+</svg>
